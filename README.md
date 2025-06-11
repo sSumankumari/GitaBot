@@ -98,6 +98,6 @@ To utilize GitaBot locally, follow these steps:
 Thank you for choosing GitaBot! We hope you find clarity and wisdom through our application. Your journey towards spiritual and mental well-being is our priority.
 
 ## Preview
-- <a href="https://bit.ly/gita-bot" target="_blank">GitaBot</a>
+- <a href="https://gitabot-hqol.onrender.com" target="_blank">GitaBot</a>
 
 - <a href="https://gita-bot.streamlit.app/" target="_blank">GitaBot on Streamlit</a>
